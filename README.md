@@ -1,16 +1,54 @@
-## Alejandro Londoño - _slydragonn_
+## 🐉 Alejandro Londoño - _slydragonn_
+**`Front-End Developer`**
+
 - 🌱 I’m currently learning Vue
 
 
 Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with all kinds of things, especially programming and I love creating new projects.
 
-### Latest Posts
+### 🛠 Skills and Tools
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg" />
+<br />
+<br />
+
+### 📒 Latest Posts
 
 - [__🚀 Interesting resources for front-end developers__](https://slyblog.vercel.app/posts/resources-for-frontend-developers)
 - [__✅ El uso del operador ternario vs if & else__](https://www.linkedin.com/pulse/el-uso-del-operador-ternario-vs-else-alejandro-londo%C3%B1o-gomez/)
 - [__♥ Mis características preferidas de JavaScript__](https://www.linkedin.com/pulse/mis-caracter%C3%ADsticas-preferidas-de-javascript-alejandro-londo%C3%B1o-gomez/)
+<br />
 
-### Some Projects
+### 📽 Some Projects
 
-- easy-comments
-- mark writer
+  <div>
+    <a href="https://slydragonn.site/">🐲 My Website</a>
+    <br />
+    <img alt="mark writer" width="100px" src="https://slydragonn.site/_next/image?url=%2Fdragon.png&w=256&q=75"/>
+  </div>
+  <br />
+  <div>
+    <a href="https://github.com/slydragonn/react-easy-comments">🐶 Easy Comments</a>
+    <br />
+    <img alt="mark writer" width="150px" src="https://slydragonn.site/_next/image?url=%2Feasy-comments.png&w=384&q=75"/>
+  </div>
+  <br />
+  <div>
+    <a href="https://markwriter.tech">🦄 Mark Writer</a>
+    <br />
+    <img alt="mark writer" width="150px" src="https://slydragonn.site/_next/image?url=%2Fmarkwriter.jpg&w=384&q=75"/>
+  </div>
