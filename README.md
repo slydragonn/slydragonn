@@ -4,6 +4,12 @@
 Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with all kinds of things, especially programming and I love creating new projects.
 - 🌱 I’m currently learning Vue
 
+<p align="left">
+      <a href="https://slyblog.vercel.app/">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/my--blog-orange.svg?style=for-the-badge&logo=icons8-blog-50"/>
+      </a> 
+</p>
+
 ---
 ### 🛠 Skills and Tools
 
