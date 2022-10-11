@@ -1,11 +1,10 @@
 ## 🐉 Alejandro Londoño - _slydragonn_
 **`Front-End Developer`**
 
+Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with all kinds of things, especially programming and I love creating new projects.
 - 🌱 I’m currently learning Vue
 
-
-Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with all kinds of things, especially programming and I love creating new projects.
-
+---
 ### 🛠 Skills and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -24,14 +23,15 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg" />
 <br />
-<br />
+
+#
 
 ### 📒 Latest Posts
 
 - [__🚀 Interesting resources for front-end developers__](https://slyblog.vercel.app/posts/resources-for-frontend-developers)
 - [__✅ El uso del operador ternario vs if & else__](https://www.linkedin.com/pulse/el-uso-del-operador-ternario-vs-else-alejandro-londo%C3%B1o-gomez/)
 - [__♥ Mis características preferidas de JavaScript__](https://www.linkedin.com/pulse/mis-caracter%C3%ADsticas-preferidas-de-javascript-alejandro-londo%C3%B1o-gomez/)
-<br />
+#
 
 ### 📽 Some Projects
 
