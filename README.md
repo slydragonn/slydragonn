@@ -31,6 +31,8 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 <br />
 
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slydragonn&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+#
 
 ### 📒 Latest Posts
 
@@ -38,23 +40,9 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 - [__✅ El uso del operador ternario vs if & else__](https://www.linkedin.com/pulse/el-uso-del-operador-ternario-vs-else-alejandro-londo%C3%B1o-gomez/)
 - [__♥ Mis características preferidas de JavaScript__](https://www.linkedin.com/pulse/mis-caracter%C3%ADsticas-preferidas-de-javascript-alejandro-londo%C3%B1o-gomez/)
 #
-
+ 
 ### 📽 Some Projects
 
-  <div>
-    <a href="https://slydragonn.site/">🐲 My Website</a>
-    <br />
-    <img alt="mark writer" width="100px" src="https://slydragonn.site/_next/image?url=%2Fdragon.png&w=256&q=75"/>
-  </div>
-  <br />
-  <div>
-    <a href="https://github.com/slydragonn/react-easy-comments">🐶 Easy Comments</a>
-    <br />
-    <img alt="mark writer" width="150px" src="https://slydragonn.site/_next/image?url=%2Feasy-comments.png&w=384&q=75"/>
-  </div>
-  <br />
-  <div>
-    <a href="https://markwriter.tech">🦄 Mark Writer</a>
-    <br />
-    <img alt="mark writer" width="150px" src="https://slydragonn.site/_next/image?url=%2Fmarkwriter.jpg&w=384&q=75"/>
-  </div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slydragonn&repo=my-website&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slydragonn&repo=react-easy-comments&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slydragonn&repo=mark-editor&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
