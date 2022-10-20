@@ -25,6 +25,7 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Inkscape" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg" />
@@ -36,12 +37,20 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 
 ### 📒 Latest Posts
 
+- [__🌈 7 Amazing VS Code Extensions__](https://slyblog.vercel.app/posts/vscode-extensions)
 - [__🚀 Interesting resources for front-end developers__](https://slyblog.vercel.app/posts/resources-for-frontend-developers)
 - [__✅ El uso del operador ternario vs if & else__](https://www.linkedin.com/pulse/el-uso-del-operador-ternario-vs-else-alejandro-londo%C3%B1o-gomez/)
 - [__♥ Mis características preferidas de JavaScript__](https://www.linkedin.com/pulse/mis-caracter%C3%ADsticas-preferidas-de-javascript-alejandro-londo%C3%B1o-gomez/)
 #
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+#
  
-### 📽 Some Projects
+### 💻 Some Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slydragonn&repo=my-website&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=slydragonn&repo=react-easy-comments&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
