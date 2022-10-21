@@ -46,6 +46,7 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=How+to+create+a+%27link+in+bio%27+page+with+only+HTML+and+CSS+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
 <!-- END YOUTUBE-CARDS -->
 
 #
