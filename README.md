@@ -46,6 +46,7 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to make a gradient text with css? #css #html #webdesign #programming #style #webdevelopment](https://ytcards.demolab.com/?id=utFF-tnE67E&title=How+to+make+a+gradient+text+with+css%3F+%23css+%23html+%23webdesign+%23programming+%23style+%23webdevelopment&lang=en&timestamp=1666500227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to make a gradient text with css? #css #html #webdesign #programming #style #webdevelopment")](https://www.youtube.com/watch?v=utFF-tnE67E)
 [![How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=How+to+create+a+%27link+in+bio%27+page+with+only+HTML+and+CSS+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
 <!-- END YOUTUBE-CARDS -->
 
