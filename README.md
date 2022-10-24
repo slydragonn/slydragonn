@@ -46,8 +46,8 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![¿Como Crear un texto con color degradado con CSS? #css #html #webdesign #programming #style](https://ytcards.demolab.com/?id=utFF-tnE67E&title=%C2%BFComo+Crear+un+texto+con+color+degradado+con+CSS%3F+%23css+%23html+%23webdesign+%23programming+%23style&lang=en&timestamp=1666500227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "¿Como Crear un texto con color degradado con CSS? #css #html #webdesign #programming #style")](https://www.youtube.com/watch?v=utFF-tnE67E)
-[![How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=How+to+create+a+%27link+in+bio%27+page+with+only+HTML+and+CSS+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to create a 'link in bio' page with only HTML and CSS | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
+[![¿Cómo Crear un texto con color degradado con CSS? #css #html #webdesign #programming #style](https://ytcards.demolab.com/?id=utFF-tnE67E&title=%C2%BFC%C3%B3mo+Crear+un+texto+con+color+degradado+con+CSS%3F+%23css+%23html+%23webdesign+%23programming+%23style&lang=en&timestamp=1666500227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "¿Cómo Crear un texto con color degradado con CSS? #css #html #webdesign #programming #style")](https://www.youtube.com/watch?v=utFF-tnE67E)
+[![¿Cómo crear una página 'link in bio' con solo HTML y CSS? | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=%C2%BFC%C3%B3mo+crear+una+p%C3%A1gina+%27link+in+bio%27+con+solo+HTML+y+CSS%3F+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "¿Cómo crear una página 'link in bio' con solo HTML y CSS? | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
 <!-- END YOUTUBE-CARDS -->
 
 #
