@@ -47,7 +47,7 @@ Hi! I'm a frontend developer from Medellin, Colombia. I like to experiment with 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Como hacer un texto con color degradado en CSS fácilmente #css #html #webdesign #web #style](https://ytcards.demolab.com/?id=utFF-tnE67E&title=Como+hacer+un+texto+con+color+degradado+en+CSS+f%C3%A1cilmente+%23css+%23html+%23webdesign+%23web+%23style&lang=en&timestamp=1666500227&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Como hacer un texto con color degradado en CSS fácilmente #css #html #webdesign #web #style")](https://www.youtube.com/watch?v=utFF-tnE67E)
-[![Como crear página 'link in bio' con solo HTML y CSS | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=Como+crear+p%C3%A1gina+%27link+in+bio%27+con+solo+HTML+y+CSS+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Como crear página 'link in bio' con solo HTML y CSS | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
+[![How to create 'link in bio' page with only HTML and CSS | (no Frameworks).](https://ytcards.demolab.com/?id=gF7wpKaeDE0&title=How+to+create+%27link+in+bio%27+page+with+only+HTML+and+CSS+%7C+%28no+Frameworks%29.&lang=en&timestamp=1666149486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "How to create 'link in bio' page with only HTML and CSS | (no Frameworks).")](https://www.youtube.com/watch?v=gF7wpKaeDE0)
 <!-- END YOUTUBE-CARDS -->
 
 #
