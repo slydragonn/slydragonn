@@ -43,6 +43,7 @@ const INFO = {
 
 ## 📚 Blog
 
+- [How to Create a GitHub Profile Readme with GitHub Actions, Profile Trophy, and Custom Icons Badges](https://dev.to/slydragonn/how-to-create-a-github-profile-readme-with-github-actions-profile-trophy-and-custom-icons-badges-5h6j)
 - [How to Set up Neovim for Windows and Linux with Lua and Packer](https://dev.to/slydragonn/how-to-set-up-neovim-for-windows-and-linux-with-lua-and-packer-2391)
 - [El uso del operador ternario vs if & else](https://www.linkedin.com/pulse/el-uso-del-operador-ternario-vs-else-alejandro-londo%C3%B1o-gomez/)
 - [Mis características preferidas de JavaScript](https://www.linkedin.com/pulse/mis-caracter%C3%ADsticas-preferidas-de-javascript-alejandro-londo%C3%B1o-gomez/)
