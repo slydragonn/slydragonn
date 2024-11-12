@@ -5,7 +5,7 @@
 
 # Hi there 👋
 
-### 🔭 Who am I?
+### 🔭 *Who am I?*
 - I'm Alejandro
 - Software Developer
 - Computer Science Student
@@ -13,6 +13,8 @@
 
 ### ✨ *Projects that I want to share you*
 - Neovim Setups: [Based on the plugin managers like lazy.nvim or packer.nvim](https://github.com/slydragonn/dotfiles)
+- Portfolio: [My personal portfolio made with Astro](https://github.com/slydragonn/portfolio)
+- MarkWriter: [Simple Markdown Editor](https://github.com/slydragonn/markwriter)
 
 ### ⚡ *Programming languages that I usually use*
 `Python` `JavaScript` `TypeScript` `C/C++` `Lua`
